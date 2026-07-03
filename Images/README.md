@@ -1,3 +1,2 @@
-</>Markdown
 
 Project Images
